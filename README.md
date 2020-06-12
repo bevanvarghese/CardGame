@@ -1,4 +1,4 @@
-# CardGame
+# Card Game
 A GUI-based card game designed for an assignment in COMP2396: Object Oriented Programming & Java. 
 
 ### Rules
