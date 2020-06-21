@@ -2,7 +2,7 @@
 A GUI-based card game designed for an assignment in COMP2396: Object Oriented Programming & Java. 
 
 ### Rules
-The computer simulates the dealer. When the game starts, 52 playing cards will be shuffled and you will be given $100. At each round of the game, both the player and the dealer will be given 3 cards, drawn from the top of the deck. Player will place his/her bet (the amount must be an integer). Then before the dealer opens the cards, the player has a chance to draw _ _at most_ _ two cards from the top of the deck, to replace any two of the cards on hand. Each card on hand can only be replaced once. Player will lose the bet if the dealer gets a better hand, and vice versa.
+The computer simulates the dealer. When the game starts, 52 playing cards will be shuffled and you will be given $100. At each round of the game, both the player and the dealer will be given 3 cards, drawn from the top of the deck. Player will place his/her bet (the amount must be an integer). Then before the dealer opens the cards, the player has a chance to draw _at most_ two cards from the top of the deck, to replace any two of the cards on hand. Each card on hand can only be replaced once. Player will lose the bet if the dealer gets a better hand, and vice versa.
 
 J, Q, K are considered as special cards.  
 __Rule 1__: The one with more special cards wins.   
